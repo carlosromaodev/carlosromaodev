@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Olá, eu sou o Carlos Romão 👋</h1>
-  <p>Desenvolvedor backend | Apaixonado por tecnologia e código limpo</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Carlos+Romão+👋;Desenvolvedor+Backend;Apaixonado+por+Tecnologia+e+Código+Limpo" alt="Typing SVG" />
+  <br>
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Coding GIF" width="300"/>
 </div>
 
 ---
 
-## Sobre Mim
+## 🚀 Sobre Mim
 
 - 🔭 Atualmente trabalhando com **backend**
 - 🌱 Em constante evolução e aprendendo **TypeScript**
@@ -15,32 +15,31 @@
 
 ---
 
-## Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40">
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40">
-  <img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
-  <img alt="Express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">
-  <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40">
-  <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40">
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">
-  <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Exemplo de GitHub Readme Stats (lembre-se de configurar seu próprio link se necessário) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosromaodev&show_icons=true&theme=tokyonight" alt="Carlos's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosromaodev&layout=compact&theme=tokyonight" alt="Top Langs" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosromaodev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="Carlos's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosromaodev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="Top Langs" width="48%">
 </div>
 
 ---
 
-## Conecte-se Comigo
+## 🌐 Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.youtube.com/channel/SEU_CANAL" target="_blank">
